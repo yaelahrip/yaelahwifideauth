@@ -8,7 +8,7 @@
 It is designed for education, CTFs, internal red-teaming, and research into wireless security.
 
 - **Author:** [yaelahrip](https://github.com/yaelahrip)
-- **Special thanks:** [ARXHR007](https://github.com/arxhr007) & ChatGPT
+- **Special thanks:** [ARXHR007](https://github.com/arxhr007)
 
 ---
 
